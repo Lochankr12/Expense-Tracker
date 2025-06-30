@@ -1,0 +1,4 @@
+{
+  "name": "React Expense Tracker",
+  "description": "A modern expense tracker application built with React and Bootstrap that uses local storage to save your data directly in the browser."
+}
